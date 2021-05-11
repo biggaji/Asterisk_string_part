@@ -1,0 +1,23 @@
+{
+  "name": "asterisk_string_part",
+  "version": "1.0.0",
+  "description": "Replace part of a string with asterisk, e.g. email: tob********@example.com, phone number : *********99",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggaji/Asterisk_string_part.git"
+  },
+  "author": "Tobi Ajibade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biggaji/Asterisk_string_part/issues"
+  },
+  "homepage": "https://github.com/biggaji/Asterisk_string_part#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
